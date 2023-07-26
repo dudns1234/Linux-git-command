@@ -8,6 +8,11 @@
 - `ls`(list)
     - 현재 폴더에 있는 파일, 폴더를 출력
     - `-a`(optional) : 숨김처리된 파일, 폴더까지 출력
+    -  ls -a 를 칠 경우 : ./  ../  .git/  linux.command.md  markdown.md
+        -> . ~ .git : 폴더 (파란색) -> 앞에 점(.)이 붙어있으면 숨김처리
+
+.은 상위
+.. 현재폴더
 
 - `cd` (change directory)
     - 폴더이동(내가 원하는 위치로 이동) 
