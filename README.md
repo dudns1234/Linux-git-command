@@ -1,3 +1,5 @@
 # READEME
 
-- 학습한 내용을 정리합시다.
+- linux 명령어 정리
+- git 명령어 정리
+- markdown 정리
