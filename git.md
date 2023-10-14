@@ -40,6 +40,7 @@
     - <remote url>이 너무 기니까 origin이라고 부른다(별명설정)
     - 한 번만 실행
     - ` -v`(optional): remote 주소와 무슨 별명인지 확인
+    - `rm origin`(optional) : remote 주소 삭제
 
 
 
